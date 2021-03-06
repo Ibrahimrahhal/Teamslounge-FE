@@ -27,6 +27,7 @@ module.exports = {
     rules: {
       'linebreak-style': 'off',
       'import/no-duplicates': 'off',
+      'import/no-extraneous-dependencies': 'off',
       'prettier/prettier': [
         'error',
         {

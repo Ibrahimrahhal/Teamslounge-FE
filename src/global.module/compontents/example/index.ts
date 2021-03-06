@@ -1,3 +1,4 @@
 import example from "./ts/example";
-import './scss/example.scss';
+import "./scss/example.scss";
+
 export default example;
