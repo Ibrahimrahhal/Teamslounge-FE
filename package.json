@@ -66,11 +66,12 @@
     "workbox-webpack-plugin": "5.1.4"
   },
   "scripts": {
-    "start": "node scripts/start.js",
-    "build": "node scripts/build.js",
-    "test": "node scripts/test.js",
-    "format": "prettier --write src/**/*.ts{,x}",
-    "lint": "tsc --noEmit && eslint src/**/*.ts{,x}"
+    "set-env": "export ISLOCAL=true",
+    "start": "npm run set-env && node scripts/start.js",
+    "build": "npm run set-env && node scripts/build.js",
+    "test": "npm run set-env && node scripts/test.js",
+    "format": "npm run set-env && prettier --write src/**/*.ts{,x}",
+    "lint": "npm run set-env && tsc --noEmit && eslint src/**/*.ts{,x}"
   },
   "eslintConfig": {
     "extends": [
