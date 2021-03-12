@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Ibrahimrahhal/Teamslounge-FE/ItsOmarK-patch-1/public/logo-github.png" alt="teamslounge log" width="300px"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Ibrahimrahhal/Teamslounge-FE/main/public/logo-github.png" alt="teamslounge log" width="300px"></p>
 
 # TeamsLounge
 
