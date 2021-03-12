@@ -119,7 +119,7 @@ Current Versoin: Beta, good amount of work need to be done.
 * **Ibrahim Rahhal** 
 * **Omar Khattab** 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Ibrahimrahhal/Teamslounge-FE/graphs/contributors) who participated in this project.
 
 ## License
 
