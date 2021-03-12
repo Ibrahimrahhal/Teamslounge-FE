@@ -1,46 +1,130 @@
-# Getting Started with Create React App
+<p align="center"><img src="https://raw.githubusercontent.com/Ibrahimrahhal/Teamslounge-FE/main/public/logo-github.png" alt="teamslounge log" width="300px"></p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TeamsLounge
 
-## Available Scripts
+TeamsLounge is a platform that connects students and professionals through projects with similar interests, providing them with project management tools and helpful content along the way.
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+You can benift of the platform services by going to the following link: [TeamsLounge](https://www.teamslounge.com/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Deployment
 
-### `npm run build`
+First alpha deployment is coming soon.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Built With
+<p align="left">
+	<a href="https://aws.amazon.com/amplify/" target="_blank">
+		<img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/>
+	</a>
+	<a href="https://angular.io" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
+	</a>
+	<a href="https://aws.amazon.com" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+	</a>
+	<a href="https://babeljs.io/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+	</a>
+	<a href="https://getbootstrap.com" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+	</a>
+	<a href="https://www.chartjs.org" target="_blank">
+		<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+	</a>
+	<a href="https://www.w3schools.com/css/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+	</a>
+	<a href="https://d3js.org/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
+	</a>
+	<a href="https://www.docker.com/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+	</a>
+	<a href="https://www.elastic.co" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+	</a>
+	<a href="https://expressjs.com" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+	</a>
+	<a href="https://www.gatsbyjs.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
+	</a>
+	<a href="https://git-scm.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+	</a>
+	<a href="https://graphql.org" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+	</a>
+	<a href="https://gulpjs.com" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
+	</a>
+	<a href="https://www.w3.org/html/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+	</a>
+	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+	</a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+	</a>
+	<a href="https://www.linux.org/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+	</a>
+	<a href="https://www.nginx.com" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+	</a>
+	<a href="https://nodejs.org" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+	</a>
+	<a href="https://www.photoshop.com/en" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+	</a>
+	<a href="https://www.python.org" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+	</a>
+	<a href="https://reactjs.org/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+	</a>
+	<a href="https://redux.js.org" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+	</a>
+	<a href="https://sass-lang.com" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+	</a>
+	<a href="https://www.typescriptlang.org/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+	</a>
+	<a href="https://webpack.js.org" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+	</a>
+	<a href="https://www.adobe.com/products/xd.html" target="_blank">
+		<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+	</a>
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contributing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+We are not accepting any pull requests, for now, if you had any suggestions please message us here: [TeamsLounge - FB Page](https://www.facebook.com/TeamsLounge/). Thank you. 
 
-### `npm run eject`
+## Versioning
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Current Versoin: Beta, good amount of work need to be done. 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Authors
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* **Ibrahim Rahhal** 
+* **Omar Khattab** 
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## Learn More
+## License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Acknowledgments
+
+* University of Jordan
+* UJ Scientific Club at the Engineering Faculty
