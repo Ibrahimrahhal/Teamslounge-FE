@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/Ibrahimrahhal/Teamslounge-FE/ItsOmarK-patch-1/public/logo-github.png" alt="teamslounge log" width="300px"></p>
+
 # TeamsLounge
 
 TeamsLounge is a platform that connects students and professionals through projects with similar interests, providing them with project management tools and helpful content along the way.
