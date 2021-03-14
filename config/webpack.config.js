@@ -738,7 +738,8 @@ module.exports = function (webpackEnv) {
           },
         }),
         new webpack.DefinePlugin({
-          'env': (process.env.NODE_ENV.ISLOCAL === 'true') ? require(`../environment/${isEnvProduction?'prod':'dev'}.json`) : JSON.stringify(process.env.NODE_ENV)
+          'env': (process.env.NODE_ENV.ISLOCAL === 'true') ? require(`../environment/${isEnvProduction?'prod':'dev'}.json`) : JSON.stringify(process.env.NODE_ENV),
+          'configs': require('../config.json')
         }),
     ].filter(Boolean),
     // Some libraries import Node modules but don't use them in the browser.
