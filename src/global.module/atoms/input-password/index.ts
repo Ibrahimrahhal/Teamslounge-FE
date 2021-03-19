@@ -1,4 +1,4 @@
-import Input from "./ts/input-feild";
-import "./scss/input-feild.scss";
+import Input from "./ts/input-password";
+import "./scss/input-password.scss";
 
 export default Input;
