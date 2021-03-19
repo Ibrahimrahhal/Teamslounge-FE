@@ -2,6 +2,6 @@ InputFeild example:
 
 ```js
 <div>
-<InputFeild />
+<InputPassword />
 </div>
 ```

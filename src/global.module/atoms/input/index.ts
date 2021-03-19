@@ -1,4 +1,4 @@
 import Input from "./ts/input";
-import "./scss/input-feild.scss";
+import "./scss/input.scss";
 
 export default Input;

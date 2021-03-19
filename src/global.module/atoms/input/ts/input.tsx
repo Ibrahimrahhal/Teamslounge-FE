@@ -5,11 +5,11 @@ import InputLabel from "@material-ui/core/InputLabel";
 import FormHelperText from "@material-ui/core/FormHelperText";
 import Props from "./props";
 
-export default ({ label, type }: Props): ReactElement => {
+export default ({ label, type, inputProps }: Props): ReactElement => {
   return (
     <FormControl>
-      {label && <InputLabel htmlFor="my-input">Email address</InputLabel>}
-      <OutlinedInput type={type} />
+      {label && <InputLabel htmlFor="my-input">{label}</InputLabel>}
+      <OutlinedInput {...inputProps} type={type} label={label} />
       <FormHelperText id="my-helper-text">
         We&apos;ll never share your email.
       </FormHelperText>

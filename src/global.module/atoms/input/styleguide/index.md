@@ -2,6 +2,6 @@ InputFeild example:
 
 ```js
 <div>
-<InputIcon />
+<Input label="Input Label" />
 </div>
 ```
