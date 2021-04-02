@@ -2,6 +2,6 @@ InputIcon example:
 
 ```js
 <div>
-<InputIcon iconName="eye"/>
+<InputIcon iconName="eye" onIconClicked={()=>alert("clicked")}/>
 </div>
 ```
