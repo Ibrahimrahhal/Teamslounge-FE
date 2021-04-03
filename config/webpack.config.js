@@ -344,10 +344,10 @@ module.exports = function (webpackEnv) {
         // To fix this, we prevent you from importing files out of src/ -- if you'd like to,
         // please link the files into your node_modules/ and let module-resolution kick in.
         // Make sure your source files are compiled, as they will not be processed in any way.
-        new ModuleScopePlugin(paths.appSrc, [
-          paths.appPackageJson,
-          reactRefreshOverlayEntry,
-        ]),
+        // new ModuleScopePlugin(paths.appSrc, [
+        //   paths.appPackageJson,
+        //   reactRefreshOverlayEntry,
+        // ]),
       ],
     },
     resolveLoader: {
@@ -738,7 +738,8 @@ module.exports = function (webpackEnv) {
           },
         }),
         new webpack.DefinePlugin({
-          'env': (process.env.NODE_ENV.ISLOCAL === 'true') ? require(`../environment/${isEnvProduction?'prod':'dev'}.json`) : JSON.stringify(process.env.NODE_ENV)
+          'env': (process.env.NODE_ENV.ISLOCAL === 'true') ? require(`../environment/${isEnvProduction?'prod':'dev'}.json`) : JSON.stringify(process.env.NODE_ENV),
+          'configs': require('../config.json')
         }),
     ].filter(Boolean),
     // Some libraries import Node modules but don't use them in the browser.

@@ -1,0 +1,16 @@
+{
+    "theme": {
+        "palette": {
+            "type": "light",
+            "primary": {
+              "main": "#e25252",
+              "contrastText": "#f9f9f9"
+            },
+            
+            "secondary": {
+              "main": "#333333",
+              "contrastText": "#ffffff"
+            }
+        }
+    }
+}
